@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohamad khaled</h1>
 <h3 align="center">unity developer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadkhaled99&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadkhaled99" /> </p>
 
