@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 📫 How to reach me **mohamadknsult2@gmail.com**
+- 📫 How to reach me <br> **mohamadknsult2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
