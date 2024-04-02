@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamadkasultan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadkasultan?logo=twitter&style=for-the-badge" alt="mohamadkasultan" /></a> </p>
 
-- 🌱 I’m currently learning **Csharp-ASP.NET Core**
+- 🌱 I’m currently learning **Basics Of Programming**
 
 - 📫 How to reach me **mohamadknsult2@gmail.com**
 
