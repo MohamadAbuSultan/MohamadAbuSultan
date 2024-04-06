@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohamad khaled</h1>
-<h3 align="center">A passionate backend developer from Palestine</h3>
+<h3 align="center">"I am passionate about programming, and my current goal is to become a Full Stack .NET Developer."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadabusultan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadabusultan" /> </p>
 
