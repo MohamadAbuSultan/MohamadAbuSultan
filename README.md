@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohamadkasultan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadkasultan?logo=twitter&style=for-the-badge" alt="mohamadkasultan" /></a> </p>
 
-- 🌱 I’m currently learning **Basics Of Programming**
+- "Exploring the foundations of programming, eager to unlock endless possibilities. 🔍🚀"
+- "I love the excitement of diving into new subjects and discovering fresh perspectives. 📚💡"
+- "Dedicated to refining my problem-solving prowess as part of mastering the basics of programming. 💻🛠️"
+- "Engaged in a quest for knowledge, constantly seeking to broaden my understanding. 🌟📖"
+
 
 - 📫 How to reach me **mohamadknsult2@gmail.com**
 
