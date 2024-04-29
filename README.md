@@ -2,12 +2,6 @@ Hi 👋, I'm mohamad khaled
 
 <p id="line1">I am passionate about programming, and my current goal is to become a Full Stack .NET Developer.</p>
 
-<script>
-    setTimeout(() => {
-        document.getElementById('line1').style.display = 'none';
-    }, 2000);
-</script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadabusultan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadabusultan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadabusultan" alt="mohamadabusultan" /></a> </p>
