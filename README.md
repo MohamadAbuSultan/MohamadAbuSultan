@@ -4,8 +4,6 @@ Hi 👋, I'm mohamad khaled
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadabusultan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadabusultan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadabusultan" alt="mohamadabusultan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mohamadkasultan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadkasultan?logo=twitter&style=for-the-badge" alt="mohamadkasultan" /></a> </p>
 
 - "Exploring the foundations of programming, eager to unlock endless possibilities. 🔍🚀"
