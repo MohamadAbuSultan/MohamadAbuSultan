@@ -1,37 +1,43 @@
+<h1>About Me 📌</h1>
+
 Hi 👋, I'm mohamad khaled
+I am passionate about programming, and my current goal is to become a Full Stack .NET Developer
+- 🔭 I’m currently working on basics of programming
+- 🌱 I’m currently learning front & back end web
 
-<p id="line1">I am passionate about programming, and my current goal is to become a Full Stack .NET Developer.</p>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadabusultan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadabusultan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mohamadkasultan" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadkasultan?logo=twitter&style=for-the-badge" alt="mohamadkasultan" /></a> </p>
-
-- "Exploring the foundations of programming, eager to unlock endless possibilities. 🔍🚀"
-- "I love the excitement of diving into new subjects and discovering fresh perspectives. 📚💡"
-- "Dedicated to refining my problem-solving prowess as part of mastering the basics of programming. 💻🛠️"
-- "Engaged in a quest for knowledge, constantly seeking to broaden my understanding. 🌟📖"
-
-
-- 📫 How to reach me **mohamadknsult2@gmail.com**
-
-<!--### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohamadkasultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamadkasultan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamad-abu-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-abu-sultan" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamadkhaled382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamadkhaled382" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamadknsult2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamadknsult2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohamadknsult2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohamadknsult2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamadkhaled382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamadkhaled382" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamadkhaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamadkhaled" height="30" width="40" /></a>
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MohamadAbuSultan&count_private=true&theme=github_dark&hide_border=true" alt = "MohamadAbuSultan's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MohamadAbuSultan&count_private=true&theme=solarized-dark&hide_border=true" alt = "MohamadAbuSultan's Rating" width = 400 >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadabusultan&show_icons=true&locale=en" alt="mohamadabusultan" /></p>
+</p>
+
+<p align = "center">
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MohamadAbuSultan&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "MohamadAbuSultan's Languages/Frameworks" width = 400 />
+</p>
 
 
+<br />
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/MohamadAbuSultan/count.svg"></img>
+</div>
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:mohamadknsult2@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/mohamad-abu-sultan//"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
