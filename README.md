@@ -4,9 +4,9 @@
 <h1>About Me 📌</h1>
 
 Hi 👋, I'm mohamad khaled
-I am passionate about programming, and my current goal is to become a Full Stack .NET Developer
+I am passionate about programming, and my current goal is to become a **Back-End Web Developer**
 - 🔭 I’m currently working on basics of programming
-- 🌱 I’m currently learning front & back end web
+- 🌱 I’m currently learning back end web
 
 <br />
 
