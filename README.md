@@ -18,8 +18,6 @@ I am passionate about programming, and my current goal is to become a Full Stack
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MohamadAbuSultan&count_private=true&theme=github_dark&hide_border=true" alt = "MohamadAbuSultan's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MohamadAbuSultan&count_private=true&theme=solarized-dark&hide_border=true" alt = "MohamadAbuSultan's Rating" width = 400 >
-
 </p>
 
 <p align = "center">
