@@ -1,44 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+# Welcome to My Profile! 👋
 
+![Welcome GIF](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
 
-<h1>About Me 📌</h1>
+## About Me 🧑‍💻
 
-Hi 👋, I'm mohamad khaled
-I am passionate about programming, and my current goal is to become a **Back-End Web Developer**
-- 🔭 I’m currently working on basics of programming
-- 🌱 I’m currently learning back end web
+Hi, I'm Mohamad Abu Sultan! A passionate software developer focusing on backend development using Java and Spring Boot. Currently, I'm enhancing my programming skills and solving coding problems. I love continuous learning and exploring new technologies!
 
-<br />
+![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-<h2 align="center">Quick Overview 📈</h2>
-  
-  <p align = "center">
- 
-</p>
+## Skills 🚀
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MohamadAbuSultan&count_private=true&theme=github_dark&hide_border=true" alt = "MohamadAbuSultan's Contribution" width = 400 >
-</p>
+- **Programming Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- **Databases**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 
-<p align = "center">
+## GitHub Stats 📊
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MohamadAbuSultan&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "MohamadAbuSultan's Languages/Frameworks" width = 400 />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadAbuSultan&show_icons=true&theme=radical)
 
+## How to Reach Me 📫
 
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/MohamadAbuSultan/count.svg"></img>
-</div>
-
-<br /><br />
-<h2 align="center">Let's Connect 😎</h2>
-<p align="center">
-  <a href = "mailto:mohamadknsult2@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/mohamad-abu-sultan//"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
-</p>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-abu-sultan/)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamadAbuSultan)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MohamadKASultan)
